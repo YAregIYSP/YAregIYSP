@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Interests: <br>
+
+Machine Learning<br>
+Data Science<br>
+Quantitative Finance
 <!--
 **YAregIYSP/YAregIYSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
